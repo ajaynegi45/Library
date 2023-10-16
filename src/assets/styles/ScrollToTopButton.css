@@ -1,0 +1,18 @@
+.scroll-to-top {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #00aaff;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    padding: 20px 25px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .scroll-to-top.visible {
+    display: block;
+  }
+  
