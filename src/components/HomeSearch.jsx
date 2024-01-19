@@ -7,7 +7,6 @@ const HomeSearch = () => {
   return (
     <>
     <div className="home-search">
-
       <div className="left-side">
         <h1>Your Gateway to a Universe of Books</h1>
         <p>Explore a vast collection of books</p>
